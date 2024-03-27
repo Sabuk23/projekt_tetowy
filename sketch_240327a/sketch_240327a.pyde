@@ -1,2 +1,4 @@
 def setup()
-pass
+  pass
+def draw(
+  pass
